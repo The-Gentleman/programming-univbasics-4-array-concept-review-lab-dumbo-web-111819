@@ -1,9 +1,20 @@
 def find_element_index(array, value_to_find)
-  # Add your solution here
+
 end
+end 
+# The first method, `find_element_index(array, value_to_find)`, takes in two
+# parameters, an array of integers and a value to find. This method should
+# return the _index_ of the value that was passed in. If the value is not found,
+# this method should return `nil`.
+
+# To implement this method, you will need loop over the provided array and compare
+# each value in the array to the value provided. Remember though, that this is
+# _not_ the value that needs to be returned
+# [1,2,3,4]
 
 def find_max_value(array)
-  # Add your solution here
+
+ 
 end
 
 def find_min_value(array)
